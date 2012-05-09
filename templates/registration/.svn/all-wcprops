@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CMPT470-1117-g-swhc/!svn/ver/320/greengears/templates/registration
+END
+password_change_done.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CMPT470-1117-g-swhc/!svn/ver/223/greengears/templates/registration/password_change_done.html
+END
+password_reset_complete.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CMPT470-1117-g-swhc/!svn/ver/223/greengears/templates/registration/password_reset_complete.html
+END
+registration_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CMPT470-1117-g-swhc/!svn/ver/236/greengears/templates/registration/registration_form.html
+END
+activate.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CMPT470-1117-g-swhc/!svn/ver/223/greengears/templates/registration/activate.html
+END
+password_reset_confirm.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CMPT470-1117-g-swhc/!svn/ver/223/greengears/templates/registration/password_reset_confirm.html
+END
+activation_email_subject.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CMPT470-1117-g-swhc/!svn/ver/218/greengears/templates/registration/activation_email_subject.txt
+END
+registration_complete.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CMPT470-1117-g-swhc/!svn/ver/223/greengears/templates/registration/registration_complete.html
+END
+activation_email.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CMPT470-1117-g-swhc/!svn/ver/218/greengears/templates/registration/activation_email.txt
+END
+password_reset_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CMPT470-1117-g-swhc/!svn/ver/236/greengears/templates/registration/password_reset_form.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CMPT470-1117-g-swhc/!svn/ver/320/greengears/templates/registration/login.html
+END
+logout.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CMPT470-1117-g-swhc/!svn/ver/223/greengears/templates/registration/logout.html
+END
+password_reset_done.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CMPT470-1117-g-swhc/!svn/ver/223/greengears/templates/registration/password_reset_done.html
+END
+password_change_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CMPT470-1117-g-swhc/!svn/ver/236/greengears/templates/registration/password_change_form.html
+END
+password_reset_email.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CMPT470-1117-g-swhc/!svn/ver/218/greengears/templates/registration/password_reset_email.html
+END
